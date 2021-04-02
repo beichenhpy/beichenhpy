@@ -5,7 +5,6 @@
 > Hi, I'm beichenhpy.
 
 - 🇨🇳 &nbsp;China LiuZhou
-- 🌱 &nbsp;Spring Security
 
 [http://beichenhpy.cn](http://beichenhpy.cn)
 <!--
