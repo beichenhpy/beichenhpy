@@ -4,7 +4,7 @@
 
 > Hi, I'm beichenhpy.
 
-- 🇨🇳 &nbsp;China LiuZhou
+- 🇨🇳 &nbsp;China
 
 [http://beichenhpy.cn](http://beichenhpy.cn)
 <!--
